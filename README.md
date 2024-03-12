@@ -37,8 +37,6 @@
 
 > 🛒 **Only [$99](https://appseed.gumroad.com/l/rocket-ecommerce)** (secured by GUMROAD) for `unlimited projects`, `lifetime updates` and [Support](https://appseed.us/support/) 
 
-<br />
-
 #### ***Supercharge your eCommerce App instantly, launch faster, make $***
 
 Login users, process payments and send emails at lightspeed. Spend your time building your startup, not integrating APIs. **Rocket eCommerce** provides you with the boilerplate code you need to launch, FAST. 
@@ -58,6 +56,19 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
  - Free [Support](https://appseed.us/support/) via `Email` & [Discord](https://discord.gg/fZC6hup) 
 
 <br />
+
+## Features 
+
+| Status | Item | info | 
+| --- | --- | --- |
+| ✅ | Stack | Django, Tailwind, React |
+| ✅ | Payments | Stripe |
+| ✅ | Categories | YES |
+| ✅ | Tags | YES |
+| ✅ | Checkout | YES |
+| ✅ | Discounts Page | YES |
+| ✅ | Products Import | Stripe |
+| ✅ | Products Local Customization | YES |
 
 ## Manual Build 
 
