@@ -83,6 +83,9 @@ Once authenticated, the ADMIN (superuser) can import the products from Stripe an
 | ✅ | Transactions Tracking | YES |
 | ✅ | Docker | YES |
 | ✅ | CI/CD | Render |
+| -   | - | - |
+
+<br />
 
 ## Manual Build 
 
