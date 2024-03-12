@@ -28,7 +28,7 @@
 <br />
 
 <div align="center">
-    <img src="https://github.com/app-generator/priv-rocket-ecommerce/assets/51070104/9ab8b4fd-754b-4caf-8573-0de8ea5f4530" alt="Rocket eCommerce - Django Starter styled with Tailwind and Flowbite.">
+    <img src="https://github.com/app-generator/rocket-ecommerce/assets/51070104/710c992d-f421-456e-bc46-2e00cf29104b" alt="Rocket eCommerce - Django Starter styled with Tailwind and Flowbite.">
 </div>
 
 <br />
@@ -47,17 +47,27 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 
 #### **48+ hours of headaches**
 
- - 1 hrs to setup the project 
+ - 1 hrs to set up the project 
  - 2 hrs integrate tooling
  - 2 hrs to handle Stripe
  - 1 hrs for Docker
- - 1 hr Google Oauth
  - ∞ hrs overthinking...
  - Free [Support](https://appseed.us/support/) via `Email` & [Discord](https://discord.gg/fZC6hup) 
 
 <br />
 
 ## Features 
+
+> How It Works
+
+Once authenticated, the ADMIN (superuser) can import the products from Stripe and customize each one locally by adding properties like:
+
+- Images
+- Tags
+- Discount
+- Featured  
+
+<br />
 
 | Status | Item | info | 
 | --- | --- | --- |
@@ -69,6 +79,10 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 | ✅ | Discounts Page | YES |
 | ✅ | Products Import | Stripe |
 | ✅ | Products Local Customization | YES |
+| ✅ | Analitycs | Weekly, Monthly, Year `Sales` |
+| ✅ | Transactions Tracking | YES |
+| ✅ | Docker | YES |
+| ✅ | CI/CD | Render |
 
 ## Manual Build 
 
